@@ -32,6 +32,6 @@
       4> Pull all the files to this folder
       5> Double click \ZCovid19Game\COVID19Game\COVID19Game.sln to open
       6> Caution: check whether the username in SignUp.feature (in folder Features in the project COVID19Game) exists first:
-            a> Yes. Change the value to a non-existing username
-            b> No. Go to step 7>
+            a> Yes. Change the value to a non-existing username, then go to step 7
+            b> No. Go to step 7
       7> Click menu Test-> Run all Tests
